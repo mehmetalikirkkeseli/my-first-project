@@ -8,3 +8,10 @@ Bu bir test dosyasıdır.Bu bir test dosyasıdır.Bu bir test dosyasıdır.
 Bu bir test dosyasıdır.Bu bir test dosyasıdır.
 Bu bir test dosyasıdır.
 Bu bir test dosyasıdır.
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
